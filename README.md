@@ -31,7 +31,7 @@ project-root/
 │   ├── customer.controller.js# Customer booking routes
 │   └── BookingDetails.controller.js # Tracks detailed booking data
 │
-├── app.js                   # Main entry point
+├── server.js                   # Main entry point
 ├── package.json             # Project dependencies and scripts
 └── README.md                # Documentation
 ```
